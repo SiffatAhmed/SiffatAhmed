@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **siffatahmed@outlook.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE_vjSW034/wBd2Yr-kh3eZzP2QhXnTJQ/view?utm_content=DAE_vjSW034&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu](https://www.canva.com/design/DAE_vjSW034/wBd2Yr-kh3eZzP2QhXnTJQ/view?utm_content=DAE_vjSW034&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IOfMNTfBI0tVOoyN6Hut_ddmbX4SvxFx/view?usp=sharing](https://drive.google.com/file/d/1IOfMNTfBI0tVOoyN6Hut_ddmbX4SvxFx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
