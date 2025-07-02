@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **siffatahmed@outlook.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1UdC5XSjKcvHJuBUGLJ10DF1uAkukBZQE/view?usp=drive_link](https://drive.google.com/file/d/1CpAsrG0xR2Y0JQD6IS3H7_CCS68ORoFq/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CpAsrG0xR2Y0JQD6IS3H7_CCS68ORoFq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
