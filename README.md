@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/siffatahmed" target="blank"><img src="https://img.shields.io/twitter/follow/siffatahmed?logo=twitter&style=for-the-badge" alt="siffatahmed" /></a> </p>
 
-- 🌱 I’m currently learning **Node and Riverpod statemanagement**
+- 🌱 I’m currently learning **Flutter web and exploring solution design**
 
 - 👨‍💻 All of my projects are available at [github.com/SiffatAhmed](github.com/SiffatAhmed)
 
