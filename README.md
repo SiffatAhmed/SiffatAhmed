@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siffat Ahmed</h1>
-<h3 align="center">A passionate Flutter Developer from Pakistan</h3>
+<h3 align="center">Flutter Developer building scalable mobile apps with Firebase, Stripe & Maps integrations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siffatahmed&label=Profile%20views&color=0e75b6&style=flat" alt="siffatahmed" /> </p>
 
@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/siffatahmed" target="blank"><img src="https://img.shields.io/twitter/follow/siffatahmed?logo=twitter&style=for-the-badge" alt="siffatahmed" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter web and exploring solution design**
+- 🚀 My latest product, **[Bullet Pulse](https://app.bulletpulse.com)**, delivers personalized news summaries across 12 categories on your own schedule
+
+- 🌱 I'm currently learning **Flutter web, Next.js, and exploring solution design**
 
 - 👨‍💻 All of my projects are available at [github.com/SiffatAhmed](github.com/SiffatAhmed)
 
@@ -32,6 +34,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background-color:white;border-radius:4px;padding:2px;"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siffatahmed&show_icons=true&locale=en&layout=compact" alt="siffatahmed" /></p>
